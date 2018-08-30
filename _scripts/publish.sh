@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DIR=$(dirname "$0")
-UPSTREAM=origin
+UPSTREAM=upstream
 
 cd $DIR/..
 
