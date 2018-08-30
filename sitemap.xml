@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://JuneBuug.github.io/kr-univ-cs-guide/</loc>
+  </url>
+  
+  <url>
     <loc>https://JuneBuug.github.io/kr-univ-cs-guide/second/</loc>
   </url>
   
@@ -13,11 +17,6 @@
   
   <url>
     <loc>https://JuneBuug.github.io/kr-univ-cs-guide/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://JuneBuug.github.io/kr-univ-cs-guide/</loc>
     <priority>0</priority>
   </url>
   
