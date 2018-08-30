@@ -1,0 +1,4 @@
+baseURL = "https://JuneBuug.github.io/kr-univ-cs-guide"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
