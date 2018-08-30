@@ -6,9 +6,20 @@
     <description>Recent content on 콤퓨타를 항해하는 히치하이커를 위한 안내서</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 30 Aug 2018 17:49:12 +0900</lastBuildDate>
     
 	<atom:link href="https://JuneBuug.github.io/kr-univ-cs-guide/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://JuneBuug.github.io/kr-univ-cs-guide/hello/</link>
+      <pubDate>Thu, 30 Aug 2018 17:49:12 +0900</pubDate>
+      
+      <guid>https://JuneBuug.github.io/kr-univ-cs-guide/hello/</guid>
+      <description>오
+이렇게 하면 나오려나</description>
+    </item>
     
   </channel>
 </rss>
