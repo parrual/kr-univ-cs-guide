@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>콤퓨타를 항해하는 히치하이커를 위한 안내서</title>
-    <link>https://JuneBuug.github.io/kr-univ-cs-guide/</link>
-    <description>Recent content on 콤퓨타를 항해하는 히치하이커를 위한 안내서</description>
+    <title>Graduations on 콤퓨타를 항해하는 히치하이커를 위한 안내서</title>
+    <link>https://JuneBuug.github.io/kr-univ-cs-guide/graduation/</link>
+    <description>Recent content in Graduations on 콤퓨타를 항해하는 히치하이커를 위한 안내서</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 17:49:12 +0900</lastBuildDate>
     
-	<atom:link href="https://JuneBuug.github.io/kr-univ-cs-guide/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JuneBuug.github.io/kr-univ-cs-guide/graduation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
