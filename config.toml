@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "콤퓨타를 항해하는 히치하이커를 위한 안내서"
 theme = "hugo-theme-learn"
 
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
 [params]
 themeVariant = "blue"
